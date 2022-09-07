@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garuda5611&label=Profile%20views&color=0e75b6&style=flat" alt="garuda5611" /> </p>
 
-<p align="left">[![trophy](https://github-profile-trophy.vercel.app/?username=Garuda5611)](https://github.com/Garuda5611/github-profile-trophy)]</p>
+<p align="left">[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)</p>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning and Open Source**
 
