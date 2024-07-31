@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Patil</h1>
-<h3 align="justify">Motivated and hard-working CSE undergraduate student with experience of working on web application development and software development. Interested in research oriented work. Currently trying to explore Open Source, Data Science and Machine Learning fields. Projects in C, C++, Java, Python, HTML, CSS, JavaScript, JSP, VB .Net, Networking, Security, Data Science and Machine Learning. Dedicated towards achieving goals.</h3>
+<h3 align="justify">Motivated and hard-working CSE individual with experience of working on web application development and software development. Interested in research oriented work. Currently trying to explore Open Source, Data Science and Machine Learning fields. Projects in C, C++, Java, Python, HTML, CSS, JavaScript, JSP, Nodejs, AngularJS, VB .Net, Networking, Security, Data Science and Machine Learning. Dedicated towards achieving goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garuda5611&label=Profile%20views&color=0e75b6&style=flat" alt="garuda5611" /> </p>
 
